@@ -1,0 +1,9 @@
+.container {
+  padding: 60px;
+  border: 2px solid #333;
+  background: #f6f4f4;
+}
+
+.image {
+  width: 300px;
+}
